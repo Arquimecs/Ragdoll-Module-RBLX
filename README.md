@@ -1,0 +1,1 @@
+This is currently a **wip**, i'll be coding this after development for Burn-A-Brainrot is done. However, if I require a ragdoll module in Burn-A-Brainrot's development journey, i'll consider coding it and uploading it here.
